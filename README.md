@@ -1,6 +1,8 @@
-# DEEPTRACE — Unmasking AI-Generated Faces with Deep Learning
+<img width="1536" height="2752" alt="Gemini_Generated_Image_crhhhgcrhhhgcrhh" src="https://github.com/user-attachments/assets/3f04a619-5e64-443d-b524-37c3b6d762e2" /># DEEPTRACE — Unmasking AI-Generated Faces with Deep Learning
+
 
 ## Link : https://urvikava-deeptrace.vercel.app
+
 
 DEEPTRACE is an end-to-end AI-powered deepfake face detection system that combines **Error Level Analysis (ELA)** with **Convolutional Neural Networks (CNNs)** to identify AI-generated or manipulated face images. The system includes a **FastAPI backend**, **React + Vite frontend**, and **MediaPipe face-gating** for strict face validation.
 
@@ -22,6 +24,9 @@ DEEPTRACE is an end-to-end AI-powered deepfake face detection system that combin
 ## 🏗️ System Pipeline
 
 The detection pipeline follows the architecture shown in the project diagram:
+
+<img width="1536" height="2752" alt="DEEPTRACE - System Architecture" src="https://github.com/user-attachments/assets/33cdf564-d668-479e-8cc6-80c27f85e8ae" />
+
 
 ### Step 1: Input Image
 - User uploads image OR captures from camera
