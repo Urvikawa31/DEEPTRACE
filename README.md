@@ -25,7 +25,7 @@ DEEPTRACE is an end-to-end AI-powered deepfake face detection system that combin
 
 The detection pipeline follows the architecture shown in the project diagram:
 
-<img width="650" height="700" alt="DEEPTRACE - System Architecture" src="https://github.com/user-attachments/assets/33cdf564-d668-479e-8cc6-80c27f85e8ae" />
+<img width="200" height="300" alt="DEEPTRACE - System Architecture" src="https://github.com/user-attachments/assets/33cdf564-d668-479e-8cc6-80c27f85e8ae" />
 
 
 ### Step 1: Input Image
