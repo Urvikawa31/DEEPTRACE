@@ -200,10 +200,10 @@ cloudflared tunnel --url http://localhost:5173
 ## 👩‍💻 Author
 
 **Urvi Kava**  
-M.Sc. Data Science — DA-IICT  
-Data Science Enthusiast | Deep Learning | Image Forensics
+M.Sc. Data Science 
+Data Science Enthusiast | Deep Learning 
 
-I am passionate about combining mathematics, machine learning, and forensic AI to build intelligent systems that detect digital manipulation and synthetic media.
+I am passionate about combining mathematics, deep learning, and forensic AI to build intelligent systems that detect digital manipulation and synthetic media.
 
 ---
 
