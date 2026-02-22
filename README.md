@@ -104,26 +104,26 @@ Frontend displays:
 
 ```
 
-    DEEPTRACE/<br>
-    │<br>
-    ├── Backend/<br>
-    │   ├── FastAPI/<br>
-    │   │   └── main.py<br>
-    │   ├── Implementation/<br>
-    │   ├── Models/<br>
-    ├── Inference/<br>
-    │   │   ├── inference.py<br>
-    ├── Frontend/<br>
-    │   ├── src/<br>
-    │   │   ├── components/<br>
-    │   │   │   └── Scan.tsx<br>
-    │   │   ├── services/<br>
-    │   │   │   └── deepfakeApi.ts<br>
-    │   │   └── App.tsx<br>
-    │   ├── package.json<br>
-    │   └── vite.config.ts<br>
-    │<br>
-    └── README.md<br>
+    DEEPTRACE/
+    │
+    ├── Backend/
+    │   ├── FastAPI/
+    │   │   └── main.py
+    │   ├── Implementation/
+    │   ├── Models/
+    ├── Inference/
+    │   │   ├── inference.py
+    ├── Frontend/
+    │   ├── src/
+    │   │   ├── components/
+    │   │   │   └── Scan.tsx
+    │   │   ├── services/
+    │   │   │   └── deepfakeApi.ts
+    │   │   └── App.tsx
+    │   ├── package.json
+    │   └── vite.config.ts
+    │
+    └── README.md
 
 ```
 
